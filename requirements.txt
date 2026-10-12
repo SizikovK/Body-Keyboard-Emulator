@@ -1,0 +1,6 @@
+# Версии из текущего окружения. Используем только один пакет OpenCV.
+mediapipe==1.1.0
+opencv-contrib-python==5.0.0.93
+numpy==2.5.3
+pynput==1.8.2
+python-xlib==0.33
